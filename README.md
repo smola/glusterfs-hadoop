@@ -214,4 +214,15 @@ DEVELOPING
 
 2) Add the exported env variables above via Run Configurations as described in the above section.
 
-3) Develop and run unit tests as you would any other java app. 
+3) Develop and run unit tests as you would any other java app.
+
+VAGRANT
+-------
+
+You can use Vagrant to quickly get an development environment.
+
+1) Install Vagrant.
+
+2) Install vagrant-cachier plugin: vagrant plugin install vagrant-cachier
+
+3) Run vagrant up
