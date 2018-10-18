@@ -1,3 +1,4 @@
+.mvn/wrapper/*.jar
 src/main/resources/git.properties
 target/
 .project
